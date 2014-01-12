@@ -1,0 +1,39 @@
+{
+    "name": "fpoirotte/Crypt_DiffieHellman",
+    "description": "Diffie-Hellman key exchange",
+    "keywords": ["Diffie", "Hellman", "DH", "key", "exchange"],
+    "homepage": "https://github.com/fpoirotte/Crypt_DiffieHellman",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Bill Shupp",
+            "email": "shupp@php.net",
+            "role": "lead"
+        },
+        {
+            "name": "Pádraic Brady",
+            "email": "padraic@php.net",
+            "role": "lead"
+        }
+    ],
+    "support": {
+        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Crypt_DiffieHellman",
+        "source": "https://github.com/fpoirotte/Crypt_DiffieHellman"
+    },
+    "require": {
+        "php": ">=5.2.0",
+        "ext-bcmath": "*",
+        "ext-mbstring": "*"
+    },
+    "suggest": {
+        "ext-gmp": "*"
+    },
+    "autoload": {
+        "psr-0": { "Crypt_DiffieHellman": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
