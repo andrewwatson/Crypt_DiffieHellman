@@ -1,5 +1,5 @@
 {
-    "name": "fpoirotte/Crypt_DiffieHellman",
+    "name": "fpoirotte/crypt_diffiehellman",
     "description": "Diffie-Hellman key exchange",
     "keywords": ["Diffie", "Hellman", "DH", "key", "exchange"],
     "homepage": "https://github.com/fpoirotte/Crypt_DiffieHellman",
