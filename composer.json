@@ -29,7 +29,7 @@
         "ext-gmp": "*"
     },
     "autoload": {
-        "psr-0": { "Crypt_DiffieHellman": "" }
+        "classmap": ["Crypt/"]
     },
     "extra": {
         "branch-alias": {
